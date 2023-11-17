@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-function Heeder() {
+function Footer() {
   const [texts,setTexts]=useState([
     {name1:"King"},
     {name1:"Queen"},
@@ -18,3 +18,4 @@ const[index,setIndex]=useState(0)
       </div>
   )
     }
+    export default Footer

@@ -1,5 +1,5 @@
 import "./Header.css"
-import Image from "./images/pubg.avif.jpg";
+import Image from "./images/pubg.jpeg";
 import PropTypes from 'prop-types'
 const Header=({name,age})=>{
     
